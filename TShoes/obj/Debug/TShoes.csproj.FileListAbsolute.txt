@@ -1,0 +1,541 @@
+G:\test\doancoso\TShoes\TShoes\bin\Debug\TShoes.exe
+G:\test\doancoso\TShoes\TShoes\bin\Debug\TShoes.pdb
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Data.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Utils.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Data.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Utils.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.csprojAssemblyReference.cache
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.frmlogin.resources
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.Properties.Resources.resources
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.csproj.GenerateResource.cache
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.csproj.CoreCompileInputs.cache
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.csproj.CopyComplete
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.exe
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.pdb
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.frmHome.resources
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Tutorials.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.CodeParser.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Office.v18.1.Core.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.DemoData.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Images.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.DemoData.v18.1.Core.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Office.v18.1.Core.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucaccount.resources
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucBills.resources
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucdonhang.resources
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucsanpham.resources
+G:\test\doancoso\TShoes\TShoes\bin\Debug\TShoes.exe.config
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\TShoes.exe.config
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\TShoes.exe
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\TShoes.pdb
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Tutorials.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.CodeParser.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.DemoData.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Images.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.DemoData.v18.1.Core.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.csprojAssemblyReference.cache
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.frmlogin.resources
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.frmHome.resources
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.Properties.Resources.resources
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucaccount.resources
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucBills.resources
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucdonhang.resources
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucsanpham.resources
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.csproj.GenerateResource.cache
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.csproj.CoreCompileInputs.cache
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.csproj.CopyComplete
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.exe
+D:\Học\Đồ Án Cơ Sở\Tshore\doancoso\TShoes\TShoes\obj\Debug\TShoes.pdb
+G:\test\doancoso\TShoes\TShoes\bin\Debug\BUS.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DAO.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DTO.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\EntityFramework.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\BUS.pdb
+G:\test\doancoso\TShoes\TShoes\bin\Debug\BUS.dll.config
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DAO.pdb
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DAO.dll.config
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DTO.pdb
+G:\test\doancoso\TShoes\TShoes\bin\Debug\DTO.dll.config
+G:\test\doancoso\TShoes\TShoes\bin\Debug\EntityFramework.xml
+G:\test\doancoso\TShoes\TShoes\bin\Debug\EntityFramework.SqlServer.dll
+G:\test\doancoso\TShoes\TShoes\bin\Debug\EntityFramework.SqlServer.xml
+G:\test\doancoso\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucdoimatkhau.resources
+G:\test\TShoes\TShoes\bin\Debug\TShoes.exe.config
+G:\test\TShoes\TShoes\bin\Debug\TShoes.exe
+G:\test\TShoes\TShoes\bin\Debug\TShoes.pdb
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Data.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Tutorials.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Utils.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DTO.dll
+G:\test\TShoes\TShoes\bin\Debug\EntityFramework.dll
+G:\test\TShoes\TShoes\bin\Debug\EntityFramework.SqlServer.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.CodeParser.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Office.v18.1.Core.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.DemoData.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Images.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.DemoData.v18.1.Core.dll
+G:\test\TShoes\TShoes\bin\Debug\DTO.pdb
+G:\test\TShoes\TShoes\bin\Debug\DTO.dll.config
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Data.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Utils.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+G:\test\TShoes\TShoes\bin\Debug\EntityFramework.xml
+G:\test\TShoes\TShoes\bin\Debug\EntityFramework.SqlServer.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Office.v18.1.Core.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+G:\test\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+G:\test\TShoes\TShoes\obj\Debug\TShoes.csprojAssemblyReference.cache
+G:\test\TShoes\TShoes\obj\Debug\TShoes.DoiTraHang.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.frmlogin.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.frmHome.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.infoSP.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.Migrations.createdatabase.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.Migrations.createActiveBills.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.PhieuNhap.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.Properties.Resources.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.ThongTinSanPham.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.DSPhieuNhap.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucaccount.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucBills.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucdoimatkhau.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucdonhang.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucsanpham.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.XuatBills.resources
+G:\test\TShoes\TShoes\obj\Debug\TShoes.csproj.GenerateResource.cache
+G:\test\TShoes\TShoes\obj\Debug\TShoes.csproj.CoreCompileInputs.cache
+G:\test\TShoes\TShoes\obj\Debug\TShoes.csproj.CopyComplete
+G:\test\TShoes\TShoes\obj\Debug\TShoes.exe
+G:\test\TShoes\TShoes\obj\Debug\TShoes.pdb
+G:\test\năm 3\TShoes\TShoes\bin\Debug\TShoes.exe.config
+G:\test\năm 3\TShoes\TShoes\bin\Debug\TShoes.exe
+G:\test\năm 3\TShoes\TShoes\bin\Debug\TShoes.pdb
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DTO.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\EntityFramework.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\EntityFramework.SqlServer.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DTO.pdb
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DTO.dll.config
+G:\test\năm 3\TShoes\TShoes\bin\Debug\EntityFramework.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\EntityFramework.SqlServer.xml
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.csproj.AssemblyReference.cache
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.DoiTraHang.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.frmlogin.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.frmHome.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.infoSP.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.Migrations.createdatabase.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.Migrations.createActiveBills.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.PhieuNhap.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.Properties.Resources.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.ThongTinSanPham.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.DSPhieuNhap.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucaccount.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucBills.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucdoimatkhau.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucdonhang.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.UI.Modules.ucsanpham.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.XuatBills.resources
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.csproj.GenerateResource.cache
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.csproj.CoreCompileInputs.cache
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.exe
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.pdb
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Data.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Tutorials.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Utils.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.DemoData.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.CodeParser.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Office.v19.2.Core.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Images.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Data.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Utils.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Xpo.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraBars.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Office.v19.2.Core.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+G:\test\năm 3\TShoes\TShoes\obj\Debug\TShoes.csproj.CopyComplete
